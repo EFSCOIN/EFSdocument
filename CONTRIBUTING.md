@@ -29,4 +29,4 @@ The licence must remain in all derivatives of this work.
 
 ***EFSCOIN Efs Document*** by the [EFSCOIN Efs](https://efscoin.github.io/) is licensed under a [AGPL-3.0 International Licence](https://www.gnu.org/licenses/).
 
-Based on a work at https://github.com/efscoin/document.
+Based on a [work at](https://github.com/efscoin/efsdocument/).
