@@ -39,7 +39,7 @@ See our [contributing policy](CONTRIBUTING.md).
 
 Unless otherwise specified, everything in this repository is covered by the following licence:
 
-[![AGPL-3.0 International](https://www.gnu.org/licenses)
+[AGPL-3.0 International License](https://www.gnu.org/licenses)
 
 ***EFSCOIN Efs Document*** by the [EFSCOIN Efs](https://efscoin.github.io/) is licensed under a [AGPL-3.0 International Licence](https://www.gnu.org/).
 
